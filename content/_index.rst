@@ -6,6 +6,6 @@ draft: false
 
 Content here
 
-.. math:: e = m c^2
+.. math:: c = \lambda f
 
 Some more content

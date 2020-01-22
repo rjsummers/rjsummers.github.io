@@ -1,0 +1,9 @@
+body {
+    max-width: 40em;
+    margin: auto;
+    padding: 1em;
+}
+
+.homepage-header {
+    text-align: center;
+}
